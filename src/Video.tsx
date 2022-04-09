@@ -7,7 +7,7 @@ export const RemotionVideo: React.FC = () => {
 	return (
 		<>
 			<Composition 
-				id="May-Animation"
+				id="Empty"
 				component={MayAnimation}
 				durationInFrames={240}
 				fps={25}
